@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+  background-color: white;
+  color: black;
+}
+
+.wholeNavbar {
+  display: flex;
+  position: fixed;
+  justify-content: space-around;
+  width: 100%;
+  padding-top: 5px;
+  border-bottom: 1px transparent;
+  z-index: 1;
+  height: 80px;
+}
+
+.logo {
+  background: none;
+}
